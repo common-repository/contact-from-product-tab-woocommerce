@@ -1,0 +1,280 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: WooCommerce tabs contact form\n"
+"POT-Creation-Date: 2016-11-16 21:48+0000\n"
+"PO-Revision-Date: 2016-11-16 21:47+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: contact-from-product-tab-woocommerce.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/view/edit_custom_field.php:11 admin/view/settings_general_tab.php:141
+#: admin/view/settings_general_tab.php:211
+msgid "Field Type"
+msgstr ""
+
+#: admin/view/edit_custom_field.php:25 admin/view/edit_custom_field.php:28
+#: admin/view/settings_general_tab.php:157
+#: admin/view/settings_general_tab.php:160
+#: admin/view/settings_general_tab.php:211
+msgid "Field Title"
+msgstr ""
+
+#: admin/view/edit_custom_field.php:35 admin/view/edit_custom_field.php:38
+#: admin/view/settings_general_tab.php:167
+#: admin/view/settings_general_tab.php:170
+#: admin/view/settings_general_tab.php:211
+msgid "Field Name"
+msgstr ""
+
+#: admin/view/edit_custom_field.php:40 admin/view/settings_general_tab.php:172
+msgid "Field name without any space and special character"
+msgstr ""
+
+#: admin/view/edit_custom_field.php:46 admin/view/settings_general_tab.php:178
+#: admin/view/settings_general_tab.php:211
+msgid "Value"
+msgstr ""
+
+#: admin/view/edit_custom_field.php:50 admin/view/settings_general_tab.php:182
+msgid ""
+"If you using select/radio button/checkbox, then enter each option value by "
+"separating comma"
+msgstr ""
+
+#: admin/view/edit_custom_field.php:51 admin/view/settings_general_tab.php:183
+msgid "Example: Option1,Option2,Option3"
+msgstr ""
+
+#: admin/view/edit_custom_field.php:57 admin/view/settings_general_tab.php:189
+#: admin/view/settings_general_tab.php:211
+msgid "Required"
+msgstr ""
+
+#: admin/view/edit_custom_field.php:60 admin/view/settings_general_tab.php:52
+#: admin/view/settings_general_tab.php:86
+#: admin/view/settings_general_tab.php:192
+msgid "Yes"
+msgstr ""
+
+#: admin/view/edit_custom_field.php:63 admin/view/settings_general_tab.php:56
+#: admin/view/settings_general_tab.php:90
+#: admin/view/settings_general_tab.php:195
+msgid "No"
+msgstr ""
+
+#: admin/view/settings_general_tab.php:9 admin/view/settings_general_tab.php:16
+msgid "General settings"
+msgstr ""
+
+#: admin/view/settings_general_tab.php:10 views/themeqx_cfptwc_tab.php:22
+msgid "Email"
+msgstr ""
+
+#: admin/view/settings_general_tab.php:11
+msgid "Custom fields"
+msgstr ""
+
+#: admin/view/settings_general_tab.php:23
+msgid "Receiving email address"
+msgstr ""
+
+#: admin/view/settings_general_tab.php:30
+msgid "Form submited message"
+msgstr ""
+
+#: admin/view/settings_general_tab.php:48
+msgid "Enable email notification to admin"
+msgstr ""
+
+#: admin/view/settings_general_tab.php:59
+msgid ""
+"Admin will get an email notification if someone contact with product tab "
+"contact form"
+msgstr ""
+
+#: admin/view/settings_general_tab.php:64
+msgid "Admin email notification subject"
+msgstr ""
+
+#: admin/view/settings_general_tab.php:72
+msgid "Admin email notification template"
+msgstr ""
+
+#: admin/view/settings_general_tab.php:74
+#: admin/view/settings_general_tab.php:109
+msgid "Template variable you can use"
+msgstr ""
+
+#: admin/view/settings_general_tab.php:82
+msgid "Enable email notification to user"
+msgstr ""
+
+#: admin/view/settings_general_tab.php:93
+msgid "Form submitted user will get an email if you enable"
+msgstr ""
+
+#: admin/view/settings_general_tab.php:98
+msgid "Sender email subject"
+msgstr ""
+
+#: admin/view/settings_general_tab.php:106
+msgid "Send email to user template"
+msgstr ""
+
+#: admin/view/settings_general_tab.php:208
+msgid "Custom Fields"
+msgstr ""
+
+#: admin/view/settings_general_tab.php:236
+msgid "Save"
+msgstr ""
+
+#: classes/themeqx_cfptwc_admin_menu.php:45
+msgid "CFPTWC Settings"
+msgstr ""
+
+#: classes/themeqx_cfptwc_admin_menu.php:53
+msgid "Contact Message"
+msgstr ""
+
+#: classes/themeqx_cfptwc_ajax.php:148
+msgid "Something went wrong, please try again"
+msgstr ""
+
+#: classes/themeqx_cfptwc_base.php:88
+msgid "Contact form"
+msgstr ""
+
+#: classes/themeqx_cfptwc_functions.php:16
+msgctxt "post type general name"
+msgid "cfptwc_msgs"
+msgstr ""
+
+#: classes/themeqx_cfptwc_functions.php:17
+msgctxt "post type singular name"
+msgid "cfptwc_msg"
+msgstr ""
+
+#: classes/themeqx_cfptwc_functions.php:18
+msgctxt "admin menu"
+msgid "CFPTWC"
+msgstr ""
+
+#: classes/themeqx_cfptwc_functions.php:19
+msgctxt "add new on admin bar"
+msgid "cfptwc_msg"
+msgstr ""
+
+#: classes/themeqx_cfptwc_functions.php:20
+msgctxt "cfptwc_msg"
+msgid "Add New"
+msgstr ""
+
+#: classes/themeqx_cfptwc_functions.php:21
+msgid "Add New cfptwc_msg"
+msgstr ""
+
+#: classes/themeqx_cfptwc_functions.php:22
+msgid "New cfptwc_msg"
+msgstr ""
+
+#: classes/themeqx_cfptwc_functions.php:23
+msgid "Edit cfptwc_msg"
+msgstr ""
+
+#: classes/themeqx_cfptwc_functions.php:24
+msgid "View cfptwc_msg"
+msgstr ""
+
+#: classes/themeqx_cfptwc_functions.php:25
+msgid "All cfptwc_msgs"
+msgstr ""
+
+#: classes/themeqx_cfptwc_functions.php:26
+msgid "Search cfptwc_msgs"
+msgstr ""
+
+#: classes/themeqx_cfptwc_functions.php:27
+msgid "Parent cfptwc_msgs:"
+msgstr ""
+
+#: classes/themeqx_cfptwc_functions.php:28
+msgid "No cfptwc_msgs found."
+msgstr ""
+
+#: classes/themeqx_cfptwc_functions.php:29
+msgid "No cfptwc_msgs found in Trash."
+msgstr ""
+
+#: classes/themeqx_cfptwc_functions.php:33
+msgid "Description."
+msgstr ""
+
+#: views/contact_msgs_view_meta_box.php:8 views/themeqx_cfptwc_tab.php:30
+msgid "Subject"
+msgstr ""
+
+#: views/contact_msgs_view_meta_box.php:9
+msgid "Product Name"
+msgstr ""
+
+#: views/contact_msgs_view_meta_box.php:16
+msgid "Time"
+msgstr ""
+
+#: views/themeqx_cfptwc_tab.php:7
+msgid "Your email address will not be published"
+msgstr ""
+
+#: views/themeqx_cfptwc_tab.php:8
+msgid "Required fields are marked"
+msgstr ""
+
+#: views/themeqx_cfptwc_tab.php:17
+msgid "Name"
+msgstr ""
+
+#: views/themeqx_cfptwc_tab.php:78
+msgid "Select option"
+msgstr ""
+
+#: views/themeqx_cfptwc_tab.php:154
+msgid "Message"
+msgstr ""
+
+#: views/themeqx_cfptwc_tab.php:159
+msgid "Submit"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce tabs contact form"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.themeqx.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "An excellent way to get user response from every product in WooCommerce"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Themeqx"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.themeqx.com"
+msgstr ""

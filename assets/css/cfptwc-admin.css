@@ -1,0 +1,31 @@
+.about_themeqx_wrap {
+    background: #fff none repeat scroll 0 0;
+    padding: 20px;
+}
+.gopro_wrap{
+    width: 48%;
+    display: inline-block;
+    vertical-align: top;
+}
+.about_themeqx{
+    width: 48%;
+    display: inline-block;
+    vertical-align: top;
+}
+.about_themeqx_wrap ul li{
+    line-height: 22px;
+    font-size: 16px;
+}
+.badge-circle {
+    background: #3c763d;
+    border-radius: 50%;
+    color: #ffffff;
+    display: inline-block;
+    height: 22px;
+    line-height: 18px;
+    text-align: center;
+    width: 22px;
+}
+.noticed_promotion a{
+    color: #3c763d;
+}
